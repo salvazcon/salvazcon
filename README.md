@@ -36,12 +36,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-# 📊 GitHub Stats:
+<!--  # 📊 GitHub Stats:
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvazcon&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=salvazcon&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-
+</p> -->
